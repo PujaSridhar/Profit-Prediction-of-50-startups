@@ -1,14 +1,6 @@
 # Profit-Prediction-of-50-startups
 This project aims to predict the profit of startups based on their spending on R&D, administration, and marketing using various regression models.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Dependencies](#dependencies)
-- [Data Preparation](#data-preparation)
-- [Model Training and Evaluation](#model-training-and-evaluation)
-- [Conclusion](#conclusion)
-
 ## Introduction
 The goal of this project is to develop models that can accurately predict the profit of startups. We explore four different regression models: Linear Regression, Support Vector Regression (SVR), Decision Tree Regressor, and Random Forest Regressor.
 
